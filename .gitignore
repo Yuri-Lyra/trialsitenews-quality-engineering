@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
