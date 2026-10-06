@@ -1,2 +1,1 @@
-Main branch change
-GitHub main change
+Resolving the conflict
