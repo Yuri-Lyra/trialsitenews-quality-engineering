@@ -1,2 +1,1 @@
-Feature branch change
-Main branch change
+Resolving the conflict
